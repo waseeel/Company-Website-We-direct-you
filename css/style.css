@@ -2,14 +2,15 @@
 {
 
 }
-nav
+.nav
 {
     background: black;
-    display: inline;
+    width: 100%;
+    float: left;
 }
-li
+.display
 {
- 
- 
-
+  display: inline;
+  padding: 40px;
+  
 }
