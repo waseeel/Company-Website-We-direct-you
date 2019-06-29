@@ -2,13 +2,14 @@
 {
 
 }
-ul
+nav
 {
     background: black;
+    display: inline;
 }
 li
 {
- display: inline;
+ 
  
 
 }
