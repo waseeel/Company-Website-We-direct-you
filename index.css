@@ -108,6 +108,13 @@ ul {
 }
 .cards
 {
-margin: 20px;
+/* margin: 20px; */
+margin-left: 0 auto;
+}
+.icon
+{
+  font-size: 40px;
+  padding-top: 15px;
+  color: #000000;
 }
 
