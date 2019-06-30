@@ -112,3 +112,23 @@ img.source {
         bottom: 0;
         right: 0;
 }
+.cards 
+{
+  background-color: #0078a5;
+}
+.card i {
+  font-size: 48px;
+  padding-top: 15px;
+  color: #000000;
+}
+.card {
+  background: #0078a5;
+  border-color: #004863;
+  border-radius: 10px;
+  margin: 0 15px;
+  padding: 15px 0;
+  text-align: center;
+  color: #fff;
+  transition: 0.3s ease-in-out;
+  height: 100%;
+}

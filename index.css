@@ -1,0 +1,66 @@
+body {
+    background: white;
+    width: auto;
+}
+h1.title-page {
+    margin: 70px auto;
+    width: max-content;
+    font-size: 30px;
+}
+.page-site {
+    margin: 0 auto;
+    width: max-content;
+}
+.page-site a {
+    padding: 8px;
+    color: black;
+    text-decoration: none;
+    border: 1px #eee solid;
+    background: #eee;
+}
+.page-site a:hover {
+    background: #fbc54de3;
+    border: #fbc54de3;
+
+}
+.persone1 , .persone2 , .persone3 , .persone4 , .persone5 {
+    margin: 50px auto;
+    width: max-content;
+    box-shadow: 10px 0px 40px rgba(0, 0, 0, 0.12), -20px 4px 20px rgba(0, 0, 0, 0.24);
+}
+p.text-persone {
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.img-personne {
+    margin: 0 auto;
+    width: max-content;
+}
+img {
+    border: 1px black solid;
+    border-radius: 70px;
+}
+
+h5 {
+    margin: 0px auto;
+    width: max-content;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.profail {
+    margin: 20px auto;
+    width: max-content;
+    text-decoration: none;
+}
+a.profail {
+    border: 1px #eee solid;
+    padding: 5px;
+    background: #eee;
+    color: black;
+    border-radius: 20px;
+}
+a.profail:hover {
+    background: #fbc54de3;
+    border: #fbc54de3;
+}
