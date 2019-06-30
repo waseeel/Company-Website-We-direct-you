@@ -1,3 +1,4 @@
+
 body {
     background: white;
     width: auto;
@@ -64,3 +65,48 @@ a.profail:hover {
     background: #fbc54de3;
     border: #fbc54de3;
 }
+/* new */
+
+.sar
+{
+background: #00bcd4;
+text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #ffc004;
+  }
+  /* card */
+
+.card
+{
+    text-align: center;
+}
+.cards
+{
+margin: 20px;
+}
+

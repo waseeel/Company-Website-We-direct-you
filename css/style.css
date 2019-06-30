@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #ffffff;
   }
   
   li {
@@ -18,7 +18,7 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -29,10 +29,10 @@ ul {
   }
   
   .active {
-    background-color: #4CAF50;
+    background-color: #ffc004;
   }
   /* السلايدر */
-  body{ background: #d5ddde; }
+  body{ background: #ffffff; }
 .wrapper {
     width: 95%;
     height: 20%;
@@ -122,7 +122,7 @@ img.source {
   color: #000000;
 }
 .card {
-  background: #0078a5;
+  background: #ffc004;
   border-color: #004863;
   border-radius: 10px;
   margin: 0 15px;
@@ -131,4 +131,16 @@ img.source {
   color: #fff;
   transition: 0.3s ease-in-out;
   height: 100%;
+}
+#What-us .icon i {
+  color: #0daae2;
+  font-size: 36px;
+  line-height: 1;
+  transition: 0.5s;
+}
+.icon
+{
+  font-size: 20px;
+  padding-top: 15px;
+  color: #000000;
 }
