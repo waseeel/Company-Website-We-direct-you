@@ -117,4 +117,8 @@ margin-left: 0 auto;
   padding-top: 15px;
   color: #2169a1;
 }
-
+/* shop */
+.Producer
+{
+    border: 2px rgb(88, 85, 85) solid;
+}
